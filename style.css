@@ -1,0 +1,71 @@
+body
+{
+    background-color: #ffffff;  
+    margin: 0; 
+    padding: 0;
+}
+
+h1
+{
+    color: #000000;
+    text-align: center;
+}
+
+h2
+{
+    color: #000000;
+    text-align: center
+}
+
+h3
+{
+    color: #000000;
+    text-align: center;
+}
+
+h4
+{
+    color: #000000;
+    text-align: center;
+}
+
+p
+{
+    color: #000000;
+    text-align: center;
+}
+
+.About
+{
+    text-align: left;
+}
+
+.Education
+{
+    text-align: left;
+}
+
+.Skills
+{
+    text-align: left;
+}
+
+.Languages
+{
+    text-align: left;
+}
+
+.Experiences
+{
+    text-align: left;
+}
+
+.Projects
+{
+    text-align: left;
+}
+
+.Contact
+{
+    text-align: center;    
+}
